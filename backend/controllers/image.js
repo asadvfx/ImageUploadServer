@@ -1,7 +1,5 @@
 const path = require('path')
 const asyncHandler = require('../middleware/asyncHandler')
-//const Image = require('../models/Image')
-
 
 // @desc    Create Image
 // @route   POST /api/v0/image
