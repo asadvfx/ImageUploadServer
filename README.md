@@ -10,9 +10,9 @@ Data Processing: Includes logic for processing and storing received image data.
 Response Handling: Sends appropriate responses back to the client, confirming receipt and processing status.
 
 # Setup
-Clone the Repository: git clone [[repository-url]](https://github.com/jairo-picott/image-upload-server.git)
-Install Dependencies: on backend folder npm install
-Run the Server: On backend folder npm run dev
+Clone the Repository: git clone https://github.com/jairo-picott/image-upload-server.git.
+Install Dependencies: on backend folder npm install.
+Run the Server: On backend folder npm run dev.
 
 # Usage
 API Endpoints: Documentation on the API endpoints available and how to interact with them.
