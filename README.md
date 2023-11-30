@@ -16,15 +16,6 @@ Install Dependencies: on backend folder npm install
 
 Run the Server: On backend folder npm run dev
 
-# Usage
-API Endpoints: Documentation on the API endpoints available and how to interact with them.
-Expected Data Format: Description of the data format expected from the Unreal Engine client.
-Error Handling: Information on error responses and troubleshooting tips.
-
-# Integration with Unreal Engine
-Client-Side Setup: Link to the Unreal Engine client-side repository and setup instructions.
-Data Flow: Overview of how data is sent from Unreal Engine to this server.
-
 # Contributions
 Your input makes this project better – contributions are warmly welcomed. Whether it's feature requests, bug reports, or code submissions, feel free to get involved!
 
