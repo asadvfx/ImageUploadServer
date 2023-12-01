@@ -1,3 +1,6 @@
 node_modules/
+config/
+public/
 package-lock.json
 
+backend/config/config.env
