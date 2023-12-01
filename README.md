@@ -14,7 +14,7 @@ Clone the Repository: git clone https://github.com/jairo-picott/image-upload-ser
 
 Install Dependencies: on backend folder npm install
 
-Run the Server: On backend folder npm run dev
+Run the Server: On backend folder npm run start
 
 # Contributions
 Your input makes this project better – contributions are warmly welcomed. Whether it's feature requests, bug reports, or code submissions, feel free to get involved!
