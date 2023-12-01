@@ -6,7 +6,7 @@
 //Libraries
 const express = require('express');
 const dotenv = require('dotenv');
-const morgan = require('morgan');
+//const morgan = require('morgan');
 const colors = require('colors');
 const fileUpload = require('express-fileupload');
 
@@ -21,10 +21,6 @@ const app = express()
 
 //Body parser
 app.use(express.json());
-
-if(process.env.NODE_ENV === 'development') {
-    app.use(morgan('dev'));
-}
 
 //File upload
 app.use(fileUpload())
