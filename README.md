@@ -12,9 +12,9 @@ Response Handling: Sends appropriate responses back to the client, confirming re
 # Setup
 Clone the Repository: git clone https://github.com/jairo-picott/image-upload-server.git
 
-Install Dependencies: on backend folder npm install
+Install Dependencies: In backend folder npm install
 
-Run the Server: On backend folder npm run start
+Run the Server: In backend folder npm run start
 
 # Contributions
 Your input makes this project better – contributions are warmly welcomed. Whether it's feature requests, bug reports, or code submissions, feel free to get involved!
