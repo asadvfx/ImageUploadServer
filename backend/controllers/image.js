@@ -33,7 +33,7 @@ exports.createImage = asyncHandler(async(req, res, next) => {
         });
     })
 
-    console.log(`Donde uploading ${file.name}`)
+    console.log(`Done uploading ${file.name}`)
 
     
 });
