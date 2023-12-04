@@ -9,11 +9,12 @@ Image Reception: Capable of handling HTTP requests with image data from the Unre
 Data Processing: Includes logic for processing and storing received image data.
 Response Handling: Sends appropriate responses back to the client, confirming receipt and processing status.
 
+# Prerequisites
+Node.js --> https://nodejs.org/en
+
 # Setup
 Clone the Repository: git clone https://github.com/jairo-picott/image-upload-server.git
-
 Install Dependencies: In backend folder npm install
-
 Run the Server: In backend folder npm run start
 
 # Contributions
